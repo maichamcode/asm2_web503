@@ -1,1 +1,1 @@
--them,sua,xoa
+Em làm được chức năng: thêm, sửa, xóa. Mong thầy có thể quay video hướng dẫn làm về đăng kí đăng nhập ạ. Em xin cảm ơn
